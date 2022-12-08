@@ -1,0 +1,9 @@
+Game_#:winner,result,reason
+1:black,0-1,Termination.CHECKMATE
+2:black,0-1,Termination.CHECKMATE
+3:None,1/2-1/2,Termination.STALEMATE
+4:black,0-1,Termination.CHECKMATE
+5:None,1/2-1/2,Termination.INSUFFICIENT_MATERIAL
+6:None,1/2-1/2,Termination.STALEMATE
+7:None,1/2-1/2,Termination.STALEMATE
+8:None,1/2-1/2,Termination.STALEMATE

@@ -1,6 +1,6 @@
 # Chess engines project
 (New) Repository for AMS 325 final project.  
-- Note: severe, complicated issues in github due to exceeding file size limits arose due to `.h5`files (for saved DQN models), so I debunked previously created repo and just copied the files into a new repo. Though large files that exceed the Github upload limits can be uploaded using [`git-lfs`](https://git-lfs.github.com/), files were still to large and issues continuously emerged. Thus to use the DQN model, one must run the training on their local machine first using instructions [here](#running-the-engines).
+- Note: severe, complicated issues in github due to exceeding file size limits arose due to `.h5`files (for saved DQN models), so I debunked previously created repo and just copied the files into a new repo. Though large files that exceed the Github upload limits can be uploaded using [`git-lfs`](https://git-lfs.github.com/), files were still to large and issues continuously emerged. Thus to use the DQN model, one must run the training on their local machine first using instructions [here](#creating-dqn-model-file).
 
 # Table of Contents
 - [Description](#description)

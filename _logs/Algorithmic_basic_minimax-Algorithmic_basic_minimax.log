@@ -1,0 +1,8 @@
+Game_#:winner,result,reason
+1:None,1/2-1/2,Termination.STALEMATE
+2:None,1/2-1/2,Termination.STALEMATE
+3:None,1/2-1/2,Termination.STALEMATE
+4:None,1/2-1/2,Termination.STALEMATE
+5:None,1/2-1/2,Termination.STALEMATE
+6:None,1/2-1/2,Termination.STALEMATE
+7:white,1-0,Termination.CHECKMATE
