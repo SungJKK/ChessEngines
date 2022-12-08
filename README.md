@@ -55,7 +55,7 @@ $ python main.py
 
 
 # Analysis of Results
-- See [Result_Analysis.ipynb](_notebooks/Result_Analysis.ipynb)
+- See [ChessAnalysisP2.ipynb](_notebooks/ChessAnalysisP2.ipynb)
 
 
 # Authors
